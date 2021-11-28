@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1623061402 source:/home/vafotagoyev/Vafo/Programming_in_C/game/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<curses.h>
+
